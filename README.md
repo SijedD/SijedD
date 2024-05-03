@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
-![8afcc9c2394f55fa78b73316f98e4b44d94226acb84a0dad4cc073df38f82bea](https://github.com/SijedD/SijedD/assets/149448448/5b7db90d-863a-4c94-bbd9-897cea91247a)
-![5441a17384c93734172a33e6084401ab9f31cf22c7276cb7f1c0e16c62b1d22d](https://github.com/SijedD/SijedD/assets/149448448/3b6de0bc-ad00-441b-8fc8-525aad1b3377)
+    <img src="https://github.com/SijedD/SijedD/assets/149448448/5b7db90d-863a-4c94-bbd9-897cea91247a" width="400" />
+    <img src="https://github.com/SijedD/SijedD/assets/149448448/3b6de0bc-ad00-441b-8fc8-525aad1b3377" width="400" />
 </div>
 
 # 💻 Tech Stack:
