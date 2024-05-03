@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/SijedD/SijedD/assets/149448448/5b7db90d-863a-4c94-bbd9-897cea91247a" width="400" />
-    <img src="https://github.com/SijedD/SijedD/assets/149448448/3b6de0bc-ad00-441b-8fc8-525aad1b3377" width="400" />
+    <img src="https://github.com/SijedD/SijedD/assets/149448448/5b7db90d-863a-4c94-bbd9-897cea91247a" width="400" height="400"/>
+    <img src="https://github.com/SijedD/SijedD/assets/149448448/3b6de0bc-ad00-441b-8fc8-525aad1b3377" width="400" height="400" />
 </div>
 
 # 💻 Tech Stack:
